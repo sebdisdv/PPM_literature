@@ -1,0 +1,10 @@
+from argparse import ArgumentParser
+
+
+def main():
+    pass
+
+if __name__ == "__main__":
+    args = ArgumentParser()
+    
+    main()
